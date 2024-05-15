@@ -1,4 +1,13 @@
 
+
+body{    
+
+    background-color: rgb(0, 255, 255, 40%);
+
+}
+
+
+
 body {
     font-family: 'Poppins', sans-serif;
     background-image: url();
@@ -32,4 +41,17 @@ footer .footer-text p{
     font-size: 20px;
     text-align: center;
     color: #fff;
+}
+
+
+
+#jugo {
+
+    margin: 0px 100;
+
+
+background-color:rgba(0, 255, 255, 80%);
+border: 1px solid rgb(255, 254, 254);
+
+
 }
